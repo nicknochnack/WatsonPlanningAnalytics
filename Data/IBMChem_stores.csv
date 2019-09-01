@@ -1,0 +1,19 @@
+StoreID,Store,Address,Suburb,State,Phone,Lat,Long,RegionAffluence
+QLD_CW_ST0005, IBMChem Adelaide Street Brisbane, 220 King St, Brisbane, QLD, 07 7772 1794,-26.80499134,153.9267675,1.1
+QLD_CW_ST0203, IBMChem Fortitude Valley, 55 King St Centre 1000 King St, Fortitude Valley, QLD, 07 7527 8919,-26.60703893,153.6195073,1.4
+QLD_CW_ST0113, IBMChem Annerley, 55 Whichwhich Road, Annerley, QLD, 07 1194 8544,-27.33218615,153.2438812,0.9
+QLD_CW_ST0098, IBMChem Indooroopilly,370 Younan St Indooroopilly, Indooroopilly, QLD, 07 3592 6316,-26.5968213,153.3431566,0.8
+QLD_CW_ST0132, IBMChem Mt Gravatt,Lv2 50 Mt Tigress 1271 Logan Rd, Mount Gravatt, QLD, 07 5116 0809,-27.23629759,153.8711966,0.7
+NSW_CW_ST0030, IBMChem Sydney - George Street, Shop B7 440 Smorge Street, Sydney, NSW, 02 9678 5807,-33.76721772,151.3158047,1.2
+NSW_CW_ST0230, IBMChem Blacktown, 1/85 Killpatrick St, Blacktown, NSW, 02 6231 8508,-32.81962356,151.5169668,0.7
+NSW_CW_ST0009, IBMChem Manly Beach,100 El Corso, Manly, NSW, 02 3456 2739,-33.03645527,151.5997627,1.4
+NSW_CW_ST0182, IBMChem Lakemba, 105 Hardon Street, Lakemba, NSW, 02 5404 9972,-33.49983205,151.1213575,0.7
+NSW_CW_ST0125, IBMChem Eastwood, 101 Rowers St, Eastwood, NSW, 02 4121 1306,-33.54077002,151.3124611,1.1
+NSW_CW_ST0168, IBMChem Bankstown, 290 Bankstown Town Centre, Bankstown, NSW, 02 3631 1601,-32.99450826,152.0257917,0.8
+NSW_CW_ST0099, IBMChem Westfield Parramatta,122 Temple Street, Parramatta, NSW, 02 0150 8008,-33.06182214,151.8892723,0.9
+VIC_CW_ST0098, IBMChem Melbourne, 700 Backyard St, Melbourne, Victoria, 03 9850 6119,-37.13616482,145.9401397,1.2
+VIC_CW_ST0173, IBMChem Hawthorn, 32 Glenfrost Road, Hawthorn, Victoria, 03 3672 3276,-37.29207266,145.2538508,1.1
+VIC_CW_ST0142, IBMChem Northcote, 385 Lowest St, Northcote, Victoria, 03 4182 4162,-37.16409798,145.5029723,0.9
+VIC_CW_ST0193, IBMChem Caroline Springs,99 Carolines Springs Boulevard, Caroline Springs, Victoria, 03 6192 6337,-36.78210887,145.0310594,0.8
+VIC_CW_ST0301, IBMChem Dandenong, 251 Everlast Street, Dandenong, Victoria, 03 4244 2190,-37.17030664,146.0741852,0.7
+VIC_CW_ST0411, IBMChem Essendon, 672 Fletcher St, Essendon, Victoria, 03 2954 3007,-37.36117809,145.3545021,1.3
